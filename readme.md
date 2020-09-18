@@ -1,11 +1,8 @@
 # laundry-detector
 
-## Apparatus for monitoring and recording the operational status of a system of laundry machines
+## Apparatus for monitoring and recording the operational status of a system of 'legacy' laundry machines
 
-Laundry detector is a project I started because of a sub-optimal laundry situation in my current apartment building.
-To get to our laundry room, my roommate and I have to walk down two flights of stairs, go outside, unlock the door to the laundry room, etc.
-The first time I lugged all my clothes down to the laundry room, the machine was in use.
-Ever since that frustrating moment, I was determined to come up with a solution to this problem before winter hit, so here goes.
+Laundry detector is a project I started because of a rotten laundry situation in my previous apartment building.
 
 ### Overview
 
